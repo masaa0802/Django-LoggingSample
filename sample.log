@@ -1,0 +1,9 @@
+2022-01-27 13:02:23,896-9948-WARNING-warning.log
+2022-01-27 13:02:23,896-9948-ERROR-error.log
+2022-01-27 13:02:23,896-9948-CRITICAL-critical.log
+2022-01-27 13:02:23,897-9948-ERROR-user = Taro raised error
+2022-01-27 13:02:23,897-9948-ERROR-division by zero
+Traceback (most recent call last):
+  File "c:/Users/masaa/Dropbox/My PC (DESKTOP-SAB7R7S)/Desktop/exam/logging-sample/01_logging_sample.py", line 21, in <module>
+    c = a / b
+ZeroDivisionError: division by zero

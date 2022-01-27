@@ -1,0 +1,13 @@
+2022-01-27 23:57:04,920-__main__-ERROR-エラーログ
+2022-01-27 23:57:04,920-__main__-CRITICAL-クリティカルログ
+2022-01-28 00:00:24,471-__main__-ERROR-エラーログ
+2022-01-28 00:00:24,472-__main__-CRITICAL-クリティカルログ
+2022-01-28 00:01:07,374-__main__-ERROR-エラーログ
+2022-01-28 00:01:07,374-__main__-CRITICAL-クリティカルログ
+2022-01-28 00:01:32,401-__main__-ERROR-エラーログ
+2022-01-28 00:01:32,401-__main__-CRITICAL-クリティカルログ
+2022-01-28 00:01:32,402-__main__-ERROR-division by zero
+Traceback (most recent call last):
+  File "c:/Users/masaa/Dropbox/My PC (DESKTOP-SAB7R7S)/Desktop/exam/logging-sample/02_logging_sample.py", line 39, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
